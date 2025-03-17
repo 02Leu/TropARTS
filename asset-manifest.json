@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TropARTS/static/css/main.48719d2a.css",
-    "main.js": "/TropARTS/static/js/main.ad831b93.js",
+    "main.js": "/TropARTS/static/js/main.961ad568.js",
     "static/js/453.f9fabe13.chunk.js": "/TropARTS/static/js/453.f9fabe13.chunk.js",
     "static/media/Baelz.png": "/TropARTS/static/media/Baelz.61b46c1d2da87fa1d56a.png",
     "static/media/126730617_p0_master1200.jpg": "/TropARTS/static/media/126730617_p0_master1200.fe543b521b95ceedccdc.jpg",
@@ -38,11 +38,11 @@
     "static/media/mail.png": "/TropARTS/static/media/mail.a8df4638190bd6b7b9b5.png",
     "index.html": "/TropARTS/index.html",
     "main.48719d2a.css.map": "/TropARTS/static/css/main.48719d2a.css.map",
-    "main.ad831b93.js.map": "/TropARTS/static/js/main.ad831b93.js.map",
+    "main.961ad568.js.map": "/TropARTS/static/js/main.961ad568.js.map",
     "453.f9fabe13.chunk.js.map": "/TropARTS/static/js/453.f9fabe13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48719d2a.css",
-    "static/js/main.ad831b93.js"
+    "static/js/main.961ad568.js"
   ]
 }
