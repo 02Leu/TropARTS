@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TropARTS/static/css/main.029d4dc5.css",
-    "main.js": "/TropARTS/static/js/main.fde1d716.js",
+    "main.js": "/TropARTS/static/js/main.0f72f59c.js",
     "static/js/453.f9fabe13.chunk.js": "/TropARTS/static/js/453.f9fabe13.chunk.js",
     "static/media/Baelz.png": "/TropARTS/static/media/Baelz.61b46c1d2da87fa1d56a.png",
     "static/media/126730617_p0_master1200.jpg": "/TropARTS/static/media/126730617_p0_master1200.fe543b521b95ceedccdc.jpg",
@@ -34,15 +34,16 @@
     "static/media/102335297_p0_master1200.jpg": "/TropARTS/static/media/102335297_p0_master1200.2f44f363e9fd2dfb06e4.jpg",
     "static/media/126699946_p0_master1200.jpg": "/TropARTS/static/media/126699946_p0_master1200.db152769fc2f9428b6c4.jpg",
     "static/media/93686267_p0_master1200.jpg": "/TropARTS/static/media/93686267_p0_master1200.ccf58ae5d80f9315649a.jpg",
+    "static/media/troPen.png": "/TropARTS/static/media/troPen.ac5cc1edae28e3741537.png",
     "static/media/pixiv.png": "/TropARTS/static/media/pixiv.380794535b984154f816.png",
     "static/media/mail.png": "/TropARTS/static/media/mail.a8df4638190bd6b7b9b5.png",
     "index.html": "/TropARTS/index.html",
     "main.029d4dc5.css.map": "/TropARTS/static/css/main.029d4dc5.css.map",
-    "main.fde1d716.js.map": "/TropARTS/static/js/main.fde1d716.js.map",
+    "main.0f72f59c.js.map": "/TropARTS/static/js/main.0f72f59c.js.map",
     "453.f9fabe13.chunk.js.map": "/TropARTS/static/js/453.f9fabe13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.029d4dc5.css",
-    "static/js/main.fde1d716.js"
+    "static/js/main.0f72f59c.js"
   ]
 }
